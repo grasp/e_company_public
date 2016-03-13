@@ -1,0 +1,34 @@
+
+.panel-blue  {
+    border-color: #3498db !important;
+}
+
+.panel-blue > .panel-heading {
+    background: #3498db;
+}
+
+.panel, .panel-heading, .panel-group .panel {
+    border-radius: 0;
+}
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: white;
+}
+
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+.margin-bottom-5, .margin-bottom-10, .margin-bottom-15, .margin-bottom-20, .margin-bottom-25, .margin-bottom-30, .margin-bottom-35, .margin-bottom-40, .margin-bottom-45, .margin-bottom-50, .margin-bottom-55, .margin-bottom-60, .margin-bottom-100 {
+    clear: both;
+}
+
+
+.heading {
+    text-align: center;
+}
+
+

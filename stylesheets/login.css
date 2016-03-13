@@ -1,0 +1,45 @@
+.reg-page {
+    color: #555;
+    padding: 30px;
+    background: #fefefe;
+    border: solid 1px #eee;
+    box-shadow: 0 0 3px #eee;
+}
+
+
+.reg-header {
+    color: #555;
+    text-align: center;
+    margin-bottom: 35px;
+    border-bottom: solid 1px #eee;
+}
+
+
+.content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.input-group-addon {
+    color: #b3b3b3;
+    font-size: 14px;
+    background: #fff;
+}
+.input-group-addon {
+    border-radius: 0;
+}
+
+.btn-u {
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 400;
+    padding: 6px 13px;
+    position: relative;
+    background: #72c02c;
+    white-space: nowrap;
+    display: inline-block;
+    text-decoration: none;
+}
